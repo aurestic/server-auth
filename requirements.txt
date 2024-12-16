@@ -1,7 +1,7 @@
 # generated from manifests external_dependencies
 cryptography
 email_validator
-lxml
+lxml==4.6.1
 pyjwt
 pysaml2
 python-jose[cryptography]
